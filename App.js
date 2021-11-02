@@ -5,5 +5,3 @@ function App() {
 }
 
 export default App;
-
-// do not forget instal redux
